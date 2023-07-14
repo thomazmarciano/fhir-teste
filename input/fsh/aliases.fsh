@@ -9,4 +9,4 @@ Alias: $m49.htm = http://unstats.un.org/unsd/methods/m49/m49.htm
 // Alias: $administrative-gender = http://hl7.org/fhir/administrative-gender
 // Alias: $BRNomeExame-1.0 = https://rnds-fhir.saude.gov.br/ValueSet/BRNomeExame-1.0
 // Alias: $BRResultadoQualitativoExame-1.0 = https://rnds-fhir.saude.gov.br/ValueSet/BRResultadoQualitativoExame-1.0
-// Alias: $BRSexo-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BRSexo-1.0
+Alias: $BRSexo-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BRSexo-1.0

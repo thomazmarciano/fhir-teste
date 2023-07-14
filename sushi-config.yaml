@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: org.rj-sms.br.core # TODO: check if it is right
-canonical: https://thomazmarciano/github.io/fhir-teste # TODO: check if it is right
+canonical: https://prefeitura-rio.github.io/sms-rjcore-fhir # TODO: check if it is right
 name: RJCore
 title: RJ Core Guia de Implementação
 description: Este é o Guia de Implementação criado pela Prefeitura do Rio de Janeiro
