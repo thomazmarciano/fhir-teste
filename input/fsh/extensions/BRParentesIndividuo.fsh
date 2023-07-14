@@ -1,6 +1,6 @@
-Alias: $BRNomeIndividuo-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/StructureDefinition/BRNomeIndividuo-1.0
-Alias: $BRIndividuo-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/StructureDefinition/BRIndividuo-1.0
-Alias: $BRParentesco-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BRParentesco-1.0
+// Alias: $BRNomeIndividuo-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/StructureDefinition/BRNomeIndividuo-1.0
+// Alias: $BRIndividuo-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/StructureDefinition/BRIndividuo-1.0
+// Alias: $BRParentesco-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BRParentesco-1.0
 
 Extension: BRParentesIndividuo
 Id: BRParentesIndividuo-1.0

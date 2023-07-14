@@ -1,6 +1,6 @@
 Alias: $m49.htm = http://unstats.un.org/unsd/methods/m49/m49.htm
-Alias: $BRRacaCor-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BRRacaCor-1.0
-Alias: $BREtniaIndigena-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BREtniaIndigena-1.0
+// Alias: $BRRacaCor-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BRRacaCor-1.0
+// Alias: $BREtniaIndigena-1.0 = https://prefeitura-rio.github.io/sms-rjcore-fhir/ValueSet/BREtniaIndigena-1.0
 
 Extension: BRRacaCorEtnia
 Id: BRRacaCorEtnia-1.0
